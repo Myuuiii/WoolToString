@@ -1,0 +1,6 @@
+name: WoolToString
+version: '${project.version}'
+main: moe.myuuiii.wooltostring.WoolToString
+api-version: 1.18
+authors: [ Myuuiii ]
+description: Allows you to craft wool into string
