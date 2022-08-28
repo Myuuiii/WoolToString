@@ -6,6 +6,6 @@ Creates a reverse crafting recipe to turn wool back into strings.
 
 ## Crafting Recipe
 
-![Recipe](https://cdn.mutedevs.nl/projects/wooltostring/recipe.png)
+![Recipe](https://cdn.myuuiii.com/projects/wooltostring/recipe.png)
 
 </div>
